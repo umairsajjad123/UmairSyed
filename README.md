@@ -1,5 +1,5 @@
-# UmairSyed
-# Hi there, I'm [Your Name]! 👋
+# WELCOME TO MY PAGE
+# Hi there, I'm Umair Syed! 👋
 
 ![github-header-image](https://github.com/umairsajjad123/UmairSyed/assets/17890516/6672515c-c7a4-40c0-8987-c5ce69a8a01f)
 
